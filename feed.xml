@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LDE Team Website</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://ldeteam.tk/</link>
+    <atom:link href="http://ldeteam.tk/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 17 May 2015 11:06:41 +0800</pubDate>
+    <lastBuildDate>Sun, 17 May 2015 11:06:41 +0800</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>LDE-Embedded 2.2</title>
+        <description>&lt;p&gt;LDE-Embedded，全名为 L Desktop Environment for Embedded Devices，在 LDE 2 的基础上对嵌入式平台进行优化。可在 i386/amd64/mipsel/arm 和 iOS/Android 等处理器或平台上执行。LDE-Embedded 项目旨在向用户提供一个低硬件门槛的全功能桌面环境，在轻量化的前提下，尽可能实现更强大的功能，相比桌面版本的 LDE，除了基本的桌面功能，更专注于嵌入式设备的特点，优化触屏显示，提供智能家居、物联网的底层支持，更增加了数据分析系统用于处理分析大量由传感器传入的数据。LDE 以 Qt 5/QML 作为图形界面库，有强大的移植性，在所有的平台都可以保证统一的用户界面。
+一些信息
+—
+### 源码包括
+* TmMonitor 传感器中心
+* DataCenter 数据中心
+* LdeCenter 触屏用户界面
+* LooFM 文件管理器，提供多种视图模式，即将推出面板功能。
+* Looplorer 2 网页浏览器，基于 Webkit 设计的浏览器，重写上一版几乎所有代码，针对小内存设备优化。
+* LCalc 计算器。
+* LooFTP FTP 客户端。（基于 QtFtp）
+* InitLDE 会话管理器，当使用者启动会话时建立桌面环境并自动启动程序的工具，提供对配置文件的管理功能。
+* Looget 可指定存储位置，带进度条的下载工具。
+* Lootepad 文字编辑器，基于 Qt 的文本编辑器。最新的版本支持恢复功能。
+* Loogout 注销管理器。
+* LRun 程序快速启动器。
+* Ldeabout 内嵌于 LDE 软件中，显示 LDE 版本、作者等信息的模块。
+* Ldecc LDE 控制中心，控制硬件与软件的各项设置。&lt;/p&gt;
+
+&lt;h3 id=&quot;linux&quot;&gt;已经测试支持的Linux系统/版本:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Linux Mint 16/17/17.1&lt;/li&gt;
+  &lt;li&gt;Debian stable/testing/sid&lt;/li&gt;
+  &lt;li&gt;Gentoo&lt;/li&gt;
+  &lt;li&gt;Arch Linux&lt;/li&gt;
+  &lt;li&gt;OpenSuse 13.1/Factory&lt;/li&gt;
+  &lt;li&gt;Ubuntu 13.10-15.04 beta 2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;LDE 理论上支持所有 Linux 发行版&lt;/p&gt;
+
+&lt;h3 id=&quot;section&quot;&gt;已经测试编译通过的平台:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;MIPS (little endian)&lt;/li&gt;
+  &lt;li&gt;amd64&lt;/li&gt;
+  &lt;li&gt;i386&lt;/li&gt;
+  &lt;li&gt;armv6/v7/v8&lt;/li&gt;
+  &lt;li&gt;iphoneos-arm&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;其他平台可自行测试。
+编译与安装
+—
+### 编译安装&lt;/p&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;二进制安装包安装&lt;/h3&gt;
+&lt;p&gt;用户可以从 Github 的 Releases 中获取已编译完成的二进制安装包。&lt;/p&gt;
+
+&lt;p&gt;同一目录下的 ldemanual.txt/ldemanual.abw 是两种格式的用户手册，里面有安装方法。
+共同开发
+—
+### 贡献代码
+LDE 使用 Git 作为版本控制系统. 我们所有的代码都可以在 Github 找到&lt;/p&gt;
+
+&lt;p&gt;你可以直接从 Github Clone 一份 LDE 的源码&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;git clone https://github.com/xuzhuoyi/LDE-Embedded/
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Git 的更多信息，参见官方网站: http://git-scm.com/
+### 撰写文档
+ldemanual.txt/ldemanual.abw 是两种格式的用户手册，你可以修改或添加里面的内容
+### 报告 Bugs
+我们所有的问题都记录在 GitHub 上。&lt;/p&gt;
+</description>
+        <pubDate>Sun, 17 May 2015 18:57:27 +0800</pubDate>
+        <link>http://ldeteam.tk/lde-embedded/2015/05/17/lde-embedded-2.2.html</link>
+        <guid isPermaLink="true">http://ldeteam.tk/lde-embedded/2015/05/17/lde-embedded-2.2.html</guid>
+        
+        
+        <category>lde-embedded</category>
+        
+      </item>
+    
+  </channel>
+</rss>
