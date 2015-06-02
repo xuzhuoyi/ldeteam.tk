@@ -2,13 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LDE Team Website</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <description>本网站为 LDE Team 软件的官方发布网站，您可以在本站第一时间获取最新的 LDE 软件资讯。更多详情 请关注我们的 Github 主页。
 </description>
     <link>http://ldeteam.tk/</link>
     <atom:link href="http://ldeteam.tk/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 17 May 2015 11:25:53 +0800</pubDate>
-    <lastBuildDate>Sun, 17 May 2015 11:25:53 +0800</lastBuildDate>
+    <pubDate>Tue, 02 Jun 2015 11:08:40 +0800</pubDate>
+    <lastBuildDate>Tue, 02 Jun 2015 11:08:40 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>lget 3.0</title>
+        <description>&lt;p&gt;lget 是一个拥有命令行交互界面的下载工具。借助 lgetserver 云端服务，lget 可以加速下载一些资源少、
+速度慢的文件。当然，也可以用来下载因为某些原因无法在中国大陆下载的文件。&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;一些信息&lt;/h2&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;声明&lt;/h3&gt;
+
+&lt;p&gt;本软件为自由软件，使用 GPLv2 开源软件许可证。本软件没有任何担保，仅供学习交流使用，请在当地法律允许
+范围内使用。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-2&quot;&gt;编译安装&lt;/h3&gt;
+
+&lt;p&gt;你可以直接从 Github Clone 一份 LDE 的源码&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;git clone https://github.com/xuzhuoyi/lget
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;lget 使用 CMake 构建系统，可以使用 cmake . 命令生成 Makefile。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-3&quot;&gt;二进制安装包安装&lt;/h3&gt;
+&lt;p&gt;将来，lget 将会提供各发行版的软件包和二进制文件供用户下载&lt;/p&gt;
+
+&lt;h2 id=&quot;section-4&quot;&gt;共同开发&lt;/h2&gt;
+&lt;p&gt;### 贡献代码
+LDE 使用 Git 作为版本控制系统. 我们所有的代码都可以在 Github 找到&lt;/p&gt;
+
+&lt;p&gt;Git 的更多信息，参见官方网站: http://git-scm.com/&lt;/p&gt;
+
+&lt;h3 id=&quot;bugs&quot;&gt;报告 Bugs&lt;/h3&gt;
+&lt;p&gt;我们所有的问题都记录在 GitHub 上。&lt;/p&gt;
+</description>
+        <pubDate>Tue, 02 Jun 2015 18:52:47 +0800</pubDate>
+        <link>http://ldeteam.tk/lget/2015/06/02/lget-3.0.html</link>
+        <guid isPermaLink="true">http://ldeteam.tk/lget/2015/06/02/lget-3.0.html</guid>
+        
+        
+        <category>lget</category>
+        
+      </item>
     
       <item>
         <title>LDE-Embedded 2.2</title>
@@ -75,11 +117,13 @@ LDE 使用 Git 作为版本控制系统. 我们所有的代码都可以在 Githu
 &lt;pre&gt;&lt;code&gt;git clone https://github.com/xuzhuoyi/LDE-Embedded/
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;Git 的更多信息，参见官方网站: http://git-scm.com/
-### 撰写文档
-ldemanual.txt/ldemanual.abw 是两种格式的用户手册，你可以修改或添加里面的内容
-### 报告 Bugs
-我们所有的问题都记录在 GitHub 上。&lt;/p&gt;
+&lt;p&gt;Git 的更多信息，参见官方网站: http://git-scm.com/&lt;/p&gt;
+
+&lt;h3 id=&quot;section-4&quot;&gt;撰写文档&lt;/h3&gt;
+&lt;p&gt;ldemanual.txt/ldemanual.abw 是两种格式的用户手册，你可以修改或添加里面的内容&lt;/p&gt;
+
+&lt;h3 id=&quot;bugs&quot;&gt;报告 Bugs&lt;/h3&gt;
+&lt;p&gt;我们所有的问题都记录在 GitHub 上。&lt;/p&gt;
 </description>
         <pubDate>Sun, 17 May 2015 18:57:27 +0800</pubDate>
         <link>http://ldeteam.tk/lde-embedded/2015/05/17/lde-embedded-2.2.html</link>
