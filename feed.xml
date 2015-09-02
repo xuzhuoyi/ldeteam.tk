@@ -6,9 +6,53 @@
 </description>
     <link>http://ldeteam.tk/</link>
     <atom:link href="http://ldeteam.tk/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Jun 2015 11:17:34 +0800</pubDate>
-    <lastBuildDate>Tue, 02 Jun 2015 11:17:34 +0800</lastBuildDate>
+    <pubDate>Wed, 02 Sep 2015 10:24:04 +0800</pubDate>
+    <lastBuildDate>Wed, 02 Sep 2015 10:24:04 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>lplayer 2.9</title>
+        <description>&lt;p&gt;LPlayer 是一个用 Qt 编写的可以在线播放 Acfun 视频的软件，使用 mplayer/mplayer2 前端。&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;一些信息&lt;/h2&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;声明&lt;/h3&gt;
+
+&lt;p&gt;本软件为自由软件，使用 GPLv3 开源软件许可证。本软件没有任何担保，仅供学习交流使用，
+请在当地法律允许范围内使用。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-2&quot;&gt;二进制安装包安装&lt;/h3&gt;
+&lt;p&gt;你可以前往 Github Release 页面下载已编译好的 deb/rpm/pkg.tar.xz 包
+&lt;a href=&quot;https://github.com/xuzhuoyi/lplayer/releases&quot;&gt;下载地址&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section-3&quot;&gt;编译安装&lt;/h3&gt;
+
+&lt;p&gt;你可以直接从 Github Clone 一份 LDE 的源码&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;git clone https://github.com/xuzhuoyi/lplayer
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;lget 使用 CMake 构建系统，可以使用 cmake . 命令生成 Makefile。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-4&quot;&gt;共同开发&lt;/h2&gt;
+
+&lt;h3 id=&quot;section-5&quot;&gt;贡献代码&lt;/h3&gt;
+&lt;p&gt;LPlayer 使用 Git 作为版本控制系统. 我们所有的代码都可以在 Github 找到&lt;/p&gt;
+
+&lt;p&gt;Git 的更多信息，参见官方网站: http://git-scm.com/&lt;/p&gt;
+
+&lt;h3 id=&quot;bugs&quot;&gt;报告 Bugs&lt;/h3&gt;
+&lt;p&gt;我们所有的问题都记录在 GitHub 上。&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 02 Sep 2015 18:10:26 +0800</pubDate>
+        <link>http://ldeteam.tk/lplayer/2015/09/02/lplayer-2.9.html</link>
+        <guid isPermaLink="true">http://ldeteam.tk/lplayer/2015/09/02/lplayer-2.9.html</guid>
+        
+        
+        <category>lplayer</category>
+        
+      </item>
     
       <item>
         <title>lget 3.0</title>
@@ -19,8 +63,8 @@
 
 &lt;h3 id=&quot;section-1&quot;&gt;声明&lt;/h3&gt;
 
-&lt;p&gt;本软件为自由软件，使用 GPLv2 开源软件许可证。本软件没有任何担保，仅供学习交流使用，请在当地法律允许
-范围内使用。&lt;/p&gt;
+&lt;p&gt;本软件为自由软件，使用 GPLv2 开源软件许可证。本软件没有任何担保，仅供学习交流使用，
+请在当地法律允许范围内使用。&lt;/p&gt;
 
 &lt;h3 id=&quot;section-2&quot;&gt;编译安装&lt;/h3&gt;
 
